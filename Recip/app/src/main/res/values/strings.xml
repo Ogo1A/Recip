@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    // Recipe names
+
+    <string name="recipe_one_name">Pancakes</string>
+    <string name="recipe_two_name">Chicken Caesar Salad</string>
+    <string name="recipe_three_name">Spaghetti Carbonara</string>
+    <string name="recipe_four_name">Avocado Toast</string>
+    <string name="recipe_five_name">Chicken Noodle Soup</string>
+    <string name="recipe_six_name">Guacamole</string>
+    <string name="recipe_seven_name">Beef Stir-Fry</string>
+
+
+    // Recipe difficulty
+    <string name="recipe_beginner">Beginner</string>
+    <string name="recipe_intermediate">Intermediate</string>
+    <string name="recipe_advanced">Advanced</string>
+
+
+    // on-boarding texts
+    <string name="on_boarding_one_text">Welcome to our Recipe App! Start your culinary journey with us and explore a world of delicious recipes and cooking inspiration. Let\'s get cooking!</string>
+    <string name="on_boarding_two_text">Share the joy of cooking with your loved ones. Our app is designed to bring people together through the love of food. Cook, bond, and create lasting memories.</string>
+
+
+
+
+
+
+
+
+</resources>
