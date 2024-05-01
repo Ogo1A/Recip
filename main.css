@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.root {
+  --white: hls(0, 0%, 100%);
+  --Light-gray: hsl(212, 45%, 89%);
+  --Grayish-blue: hsl(220, 15%, 55%);
+  --Dark-blue: hsl(218, 44%, 22%);
+}
+html {
+  font-family: "Outfit";
+}
+
+body {
+  min-height: 800px;
+ min-width: 1400px;
+  background-color:--Grayish-blue: hsl(220, 15%, 55%);
+}
+.container {
+  max-width: 1300px;
+  
+  min-height: 100vh;
+  padding: 50px;
+  text-align: center;
+  padding-top: 150px;
+  margin: auto;
+  padding-bottom: 0px;
+  
+}
+
+.container2 {
+  padding-top: 10px;
+}
+
+.container3{
+    background-color:hsl(212, 45%, 89%);
+    padding-top: 0;
+    padding-bottom: 100px;
+    width: 1400px;
+}
+#zandani{
+    background-color: white;
+    width: 23vw;
+    padding-top: 8px;
+    text-align: center;
+    padding: 10px;
+   margin: auto;
+   flex: 1px;
+   border-radius: 10px;
+   
+
+}
+#wanjapi{
+    border-radius: 10px;
+}
+#typo1{
+    font-family:'Times New Roman', Times, serif;
+}
+/* Mobile */
+ 
+@media(max-width:375px){
+
+#container3{
+    display: inline-block;
+    max-width: 100px;
+    max-height: 80px;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
